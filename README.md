@@ -7,6 +7,8 @@ As long as we have tools and software, we need proper communication to successfu
 
 While communication in the real world is done through words or expressions, technical communication in the virtual world is done via <i>Technical Documentation!</i>
 
+![main-qimg-ac06b4fd7c9d271e7267fcbb1ce36346](https://user-images.githubusercontent.com/89959592/132883843-619e47be-c318-4be9-a115-948592160b19.jpg)
+
 <b>Purpose :-</b> 
 
 Technical documentation is created for the sole purpose of making it simple for the end-user to understand the work dynamics and architecture of a product or technology they use. It is more like – a detailed description of the nuts and bolts of a product – a “how-to-use” guide for your new employees, users, and anyone else who needs to know how it works!
@@ -25,6 +27,27 @@ Furthermore, well-defined technical documentation also helps in:
 1. Customer Retention
 2. Saving Time and Effort
 3. Good Technical Documentation has the Potential To Elevate Sales
+
+<b>Created Using</b>
+
+--> HTML
+
+--> CSS
+
+<b>Features</b>
+
+1. Responsive one page design.
+2. Page will adjust itself according to screen size.
+3. Clear and Crisp and easy to navigate UI.
+4. Will run on any browser.
+
+
+<b>THANKS FOR READING</b>
+
+
+
+
+
 
 
 
