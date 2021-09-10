@@ -75,6 +75,11 @@ header {
   overflow-x: hidden;
 }
 
+.nav-link:hover
+{
+    font-size: 1.5rem;
+}
+
 #navbar li {
   color: #4d4e53;
   border-top: 1px solid;
