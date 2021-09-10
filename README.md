@@ -42,7 +42,9 @@ Furthermore, well-defined technical documentation also helps in:
 4. Will run on any browser.
 
 
-<b>THANKS FOR READING</b>
+<b>THANKS FOR READING..!!!
+
+Have a Good Day.! </b>
 
 
 
