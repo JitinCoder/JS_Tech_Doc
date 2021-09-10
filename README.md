@@ -1,5 +1,4 @@
 # JS_Tech_Doc
-
 <b>Introduction :-- </b>
 
 
@@ -34,18 +33,23 @@ Furthermore, well-defined technical documentation also helps in:
 
 --> CSS
 
-<b>Structure Of the Page</b>
+<b>Structure of the Page</b>
   
-  1.Navigation Bar which provides link to different sections of the page.
-  2. Main Section
+  1. Navigation Bar which provides link to different sections of the page.
   
-   Main part is divided into 
-        a. Section
-        b. Heading
-        b. Article followed by Paragraph
-        c. Pointers in for of List & Code whenever required
+  2. Main Section. Main part is divided into 
+  
+        a. Section.
+        
+        b. Heading.
+        
+        b. Article followed by Paragraph.
+        
+        c. Pointers in for of List & Code whenever required.
         
   3. Ends with refrence for info.
+  
+  4. "Move to the Top" Link in the End.
 
 <b>Features</b>
 
@@ -58,6 +62,5 @@ Furthermore, well-defined technical documentation also helps in:
 <b>THANKS FOR READING..!!!
 
 Have a Good Day.! </b>
-
 
 
