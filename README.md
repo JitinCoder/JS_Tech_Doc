@@ -49,7 +49,7 @@ Furthermore, well-defined technical documentation also helps in:
         
   3. Ends with refrence for info.
   
-  4. "Move to the Top" Link in the End.
+  4. "Move to the Top" Link at the bottom.
 
 <b>Features</b>
 
