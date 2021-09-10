@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap');
 
-body {
+body 
+{
   min-width: 290px;
   color: #4d4e53;
   background-color: #ffffff;
@@ -9,32 +10,51 @@ body {
   display:flexbox;
 }
 
-
-p{
-    text-align: justify;
+header 
+{
+  color: black;
+  margin: 10px;
+  text-align: center;
+  font-size: 1.8em;
+  font-weight: thick;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  font-weight: 600;
+  padding-top: 25px;
 }
 
-#main-doc li{
-    text-align: justify;
-}
-a:visited{  
-    color: blue;  
-     }  
-     a:hover{  
-    color:darkblue;  
-     }  
-     a:active{  
-    color: red;  
-     }  
+
+p 
+ {
+   text-align: justify;
+ }
+
+
+a:visited
+ {  
+   color: blue;  
+ }  
+a:hover
+ {  
+   color:darkblue;  
+ }  
+
+a:active
+{  
+  color: red;  
+}  
       
 
-h2{
+h2
+  {
     align-items: center;
     text-align: center;
     margin-top: 25px;
-   color:darkblue;
+    color:darkblue;
   }
-  
+
+  /* Nav bar */
+
 #navbar {
   position: fixed;
   min-width: 290px;
@@ -52,23 +72,6 @@ h2{
     background-color: lightblue;
     font-weight: 600;
 }
-header {
-  color: black;
-  margin: 10px;
-  text-align: center;
-  font-size: 1.8em;
-  font-weight: thick;
-  font-family: 'Montserrat', sans-serif;
-  text-transform: uppercase;
-  font-weight: 600;
-  padding-top: 25px;
-}
-
-#main-doc header {
-  text-align: left;
-  margin: 0px;
-}
-
 #navbar ul {
   height: 88%;
   padding: 0;
@@ -96,13 +99,52 @@ header {
   text-decoration: none;
   cursor: pointer;
 }
+#navbar {
+    background-color: white;
+    position: absolute;
+    top: 0;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    max-height: 275px;
+    border: none;
+    z-index: 1;
+    border-bottom: 2px solid;
+  }
 
-#main-doc {
+
+/* Navbar Ends */
+
+/*Main */
+
+#main-doc header 
+{
+  text-align: left;
+  margin: 0px;
+}
+
+#main-doc li{
+    text-align: justify;
+}
+
+#main-doc 
+{
   position: absolute;
   margin-left: 310px;
   padding: 20px;
   margin-bottom: 110px;
 }
+
+#main-doc {
+    position: relative;
+    margin-left: 0px;
+    margin-top: 270px;
+  }
+
+/*End Main */
+
+
+/*Section */
 
 section article {
   color: #4d4e53;
@@ -113,6 +155,11 @@ section article {
 section li {
   margin: 15px 0px 0px 20px;
 }
+
+/*Section Ends */
+
+
+/* Code */
 
 code {
   display: block;
@@ -133,39 +180,8 @@ code {
 code:hover{
   font-size: 1.5rem;
 }
-@media only screen and (max-width: 815px) {
-  /* For mobile phones: */
-  #navbar ul {
-    border: 1px solid;
-    height: 207px;
-  }
 
-  #navbar {
-    background-color: white;
-    position: absolute;
-    top: 0;
-    padding: 0;
-    margin: 0;
-    width: 100%;
-    max-height: 275px;
-    border: none;
-    z-index: 1;
-    border-bottom: 2px solid;
-  }
-
-  #main-doc {
-    position: relative;
-    margin-left: 0px;
-    margin-top: 270px;
-  }
-}
-
-@media only screen and (max-width: 400px) {
-  #main-doc {
-    margin-left: -10px;
-  }
-
-  code {
+code {
     margin-left: -20px;
     width: 100%;
     padding: 15px;
@@ -173,4 +189,23 @@ code:hover{
     padding-right: 45px;
     min-width: 233px;
   }
+
+/*End Code */
+@media only screen and (max-width: 815px) {
+  /* For mobile phones: */
+  #navbar ul {
+    border: 1px solid;
+    height: 207px;
+  }
+
+  
+  
+}
+
+@media only screen and (max-width: 400px) {
+  #main-doc {
+    margin-left: -10px;
+  }
+
+  
 }
