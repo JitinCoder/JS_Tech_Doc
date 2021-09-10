@@ -24,9 +24,9 @@ Great technical documentation guides your audience and empowers them to use your
 Along with that, technical documentation is not only important for customer support but plays an integral part in building your brand and trust. Users seek out technical documentation when they’re most in need! It helps the intended audience understand the processes and solve difficulties when using product.
 Furthermore, well-defined technical documentation also helps in:
 
-1. Customer Retention
-2. Saving Time and Effort
-3. Good Technical Documentation has the Potential To Elevate Sales
+1. Customer Retention.
+2. Saving Time and Effort.
+3. Good Technical Documentation has the Potential To Elevate Sales.
 
 <b>Created Using</b>
 
