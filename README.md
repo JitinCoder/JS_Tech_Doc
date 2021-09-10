@@ -3,7 +3,7 @@
 <b>Introduction :-- </b>
 
 
-As long as we have tools and software, we need proper communication to successfully articulate the use, creation, functionality, or architecture of these products to other people. WHY? Simply because the knowledge of technical communication is essential to capture information and help the audience with a better understanding of the product or technology.
+As long as we have tools and software, we need proper communication to successfully articulate the use, creation, functionality, or architecture of these products to other people.  <i>WHY. ?</i>  Simply because the knowledge of technical communication is essential to capture information and help the audience with a better understanding of the product or technology.
 
 While communication in the real world is done through words or expressions, technical communication in the virtual world is done via <i>Technical Documentation!</i>
 
@@ -45,14 +45,6 @@ Furthermore, well-defined technical documentation also helps in:
 <b>THANKS FOR READING..!!!
 
 Have a Good Day.! </b>
-
-
-
-
-
-
-
-
 
 
 
