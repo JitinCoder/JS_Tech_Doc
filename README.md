@@ -34,6 +34,19 @@ Furthermore, well-defined technical documentation also helps in:
 
 --> CSS
 
+<b>Structure Of the Page</b>
+  
+  1.Navigation Bar which provides link to different sections of the page.
+  2. Main Section
+  
+   Main part is divided into 
+        a. Section
+        b. Heading
+        b. Article followed by Paragraph
+        c. Pointers in for of List & Code whenever required
+        
+  3. Ends with refrence for info.
+
 <b>Features</b>
 
 1. Responsive one page design.
